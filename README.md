@@ -8,12 +8,7 @@ A brief, one-line description of what this project does (e.g., "A responsive e-c
 - [About](#about)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Setup & Installation](#setup--installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
